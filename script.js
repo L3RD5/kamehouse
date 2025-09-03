@@ -1,3 +1,4 @@
+// Vinicius De Moraes 3°D 3/09/2025
 document.addEventListener('DOMContentLoaded', function(){
     const botaoDeAcessibilidade = document.getElementById('botao-acessibilidade')
     const opcoesDeAcessibilidade = document.getElementById('opcoes-acessibilidade')
